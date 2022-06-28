@@ -23,6 +23,7 @@
 ### git 명령어
 * git status 현재 git으로 관리되고 있는 파일들의 상태를 알 수 있음
 * git remote add origin {remote_repo} {Repository}와 연결
+
     **remote와 add는 명령어가 맞지만, origin은 그저 별칭**
 * git push -u origin master Repository에 저장(연동)
 
